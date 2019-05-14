@@ -1,0 +1,28 @@
+{
+  "name": "i2u-regex",
+  "version": "1.0.0",
+  "description": "Regular Expressions (regex) for NodeJS projects",
+  "main": "regex.js",
+  "scripts": {
+    "test": "exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i2u-com-br/i2u-regex.git"
+  },
+  "keywords": [
+    "regex",
+    "email",
+    "phone",
+    "zipcode",
+    "ip",
+    "username",
+    "password"
+  ],
+  "author": "Wallas F Morais",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/i2u-com-br/i2u-regex/issues"
+  },
+  "homepage": "https://github.com/i2u-com-br/i2u-regex#readme"
+}
